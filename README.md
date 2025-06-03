@@ -28,6 +28,5 @@
 **Files Included**:
 - `Sample_Superstore_Task2.csv`: Original dataset
 - `Superstore_Visual_Report.pdf`: Visual report
-- Screenshots: `Sales_by_Region.png`, `Profit_by_Category.png`, `Sales_Trend_Over_Time.png`, `Profit_Margin_by_Segment_Funnel.png`, `Sales_by_Ship_Mode_and_Region_Waterfall.png`, `Top_5_Sub_Categories.png`, `Summary_Slide.png`
 - `Superstore_Dashboard.pbix`: Power BI file
 - `README.md`: This summary
